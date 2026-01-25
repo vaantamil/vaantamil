@@ -1,5 +1,5 @@
 from dataclasses import asdict, dataclass
-from .utility import உயிர்_மெய்_எழுத்துகள், மெய்யா, நெடிலா
+from vaantamil.utility import உயிர்_மெய்_எழுத்துகள், மெய்யா, நெடிலா
 
 
 all_rules = {
@@ -61,7 +61,6 @@ def get_three_rule(letter: str) -> str:
 
 def மெய்ம்மயக்கம்_சோதனை(word):
     array = உயிர்_மெய்_எழுத்துகள்(word)
-    print("Array :", array)
     udanilai = has_udanilai_meimmayakkam(array)
     inam = has_inam_meimmayakkam(array)
     veerrunilai = has_veerrunilai_meimmayakkam(array)

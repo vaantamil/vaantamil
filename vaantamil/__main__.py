@@ -1,10 +1,10 @@
 # utilis/__main__.py
 import sys
-from .meimmayakkam import format_meimmayakkam_output, மெய்ம்மயக்கம்_சோதனை
+from vaantamil.meimmayakkam import மெய்ம்மயக்கம்_சோதனை
 
 def main():
     if len(sys.argv) < 2:
-        print("Usage: python -m utilis <TamilWord>")
+        print("Usage: python -m vaantamil <TamilWord>")
         sys.exit(1)
 
     word = sys.argv[1]

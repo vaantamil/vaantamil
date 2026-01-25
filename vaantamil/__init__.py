@@ -1,5 +1,5 @@
 # meimmayakkam/__init__.py
-from .meimmayakkam import (
+from vaantamil.meimmayakkam import (
     மெய்ம்மயக்கம்_சோதனை,
     மெய்ம்மயக்கம்,
     மெய்ம்மயக்கம்_தரவு

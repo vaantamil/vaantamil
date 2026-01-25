@@ -6,6 +6,8 @@ __pycache__/
 
 # Virtual environment
 .venv/
+test_venv/
+test.py
 
 # Packaging
 *.egg-info/
