@@ -1,4 +1,4 @@
-# meimmayakkam/__init__.py
+#__init__.py
 from vaantamil.meimmayakkam import (
     மெய்ம்மயக்கம்_சோதனை,
     மெய்ம்மயக்கம்,

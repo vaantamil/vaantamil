@@ -92,8 +92,8 @@ MIT License
 
 ## Author
 
-Saravanan Subramanian  
-AI Architect & NLP Systems Engineer
+Priya Saravanan  
+Senior Software Engineer | AI & NLP
 
 ---
 

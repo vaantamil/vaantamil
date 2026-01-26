@@ -1,4 +1,4 @@
-# utilis/__main__.py
+#__main__.py
 import sys
 from vaantamil.meimmayakkam import மெய்ம்மயக்கம்_சோதனை
 
